@@ -32,10 +32,10 @@
       "min-free-disk-space": "10"
     },
     {
-      "name": "HTTP-GROUP",  
+      "name": "HTTP-GROUP"
     },
     {
-      "name": "HTTP-GROUP",
+      "name": "HTTP-GROUP"
     }
   ],
   "user-variables": {
