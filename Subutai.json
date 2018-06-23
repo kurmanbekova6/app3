@@ -32,18 +32,10 @@
       "min-free-disk-space": "10"
     },
     {
-      "name": "HTTP-GROUP",
-      "max-price": "5",
-      "avg-cpu-load": "50",
-      "min-free-ram": "128",
-      "min-free-disk-space": "10"
+      "name": "HTTP-GROUP",  
     },
     {
       "name": "HTTP-GROUP",
-      "max-price": "5",
-      "avg-cpu-load": "50",
-      "min-free-ram": "128",
-      "min-free-disk-space": "10"
     }
   ],
   "user-variables": {
