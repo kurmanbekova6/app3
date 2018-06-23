@@ -4,7 +4,7 @@
   "containers": [
     {
       "hostname": "www",
-      "template": "apache",
+      "template": "ubuntu-xenial",
       "peer-criteria": "HTTP-GROUP",
       "size": "MEDIUM",
       "port-mapping": [
